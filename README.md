@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋, I'm Kush Pandya
 
-<!--
-**pandyakush09/pandyakush09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pursuing a Bachelor's degree in Computer Science and Engineering with a specialization in Artificial Intelligence from Parul University.
 
-Here are some ideas to get you started:
+Proficient in:
+- Data Structures and Algorithms
+- Object-Oriented Design
+- Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my [Resume]().
+
+### Skills:
+- **Languages**: C, C++, Python
+- **Machine Learning**: NumPy, Pandas, TensorFlow, LLM, LangChain, Keras
+- **Databases**: MySQL, MongoDB
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, Express.js, Flask
+- **Version Control**: Git, GitHub
