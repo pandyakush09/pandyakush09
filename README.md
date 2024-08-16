@@ -1,4 +1,4 @@
-<img src="introbanner.gif" alt="👋 Hi there! I'm Kush Pandya" title="👋 Hi there! I'm Kush Pandya"/>
+<img src="" alt="👋 Hi there! I'm Kush Pandya" title="👋 Hi there! I'm Kush Pandya"/>
 
 <p>
     <a href="https://www.linkedin.com/in/kush-pandya-500889260/"><img src="https://img.shields.io/badge/Kush Pandya-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
