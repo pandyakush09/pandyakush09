@@ -11,10 +11,11 @@
 ## 📖 About Me
 - 🎓 Computer Science Student @Parul University
 - Competent in:
+    - Machine Learning
     - Data Structures and Algorithms
     - Backend Development
-    - Machine Learning
-- Check out - <a href="https://drive.google.com/file/d/1emsYdkkxaiu51UELltLzjil117GjMeuo/view?usp=sharing" target="_blank">📄 Resume</a>
+    
+- Check out - <a href="https://drive.google.com/file/d/1KF3zV0RKvpq3R1kEaKvCiuvBbuDbU3-t/view?usp=drive_link" target="_blank">📄 Resume</a>
 
 ## Programming Languages
 
