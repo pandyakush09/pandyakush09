@@ -6,9 +6,9 @@
 <a href="mailto:pandyakush09@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=kushpandya&label=Profile%20views&color=0e75b6&style=flat" alt="Kush Pandya"/>
-</p>
+
+<img src="https://komarev.com/ghpvc/?username=kushpandya&label=Profile%20views&color=0e75b6&style=flat" alt="Kush Pandya"/>
+
 
 ## 📖 About Me
 - 🎓 Computer Science Student @Parul University
