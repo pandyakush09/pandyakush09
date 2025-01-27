@@ -15,7 +15,7 @@
     - Data Structures and Algorithms
     - Backend Development
     
-- Check out - <a href="https://drive.google.com/file/d/1KF3zV0RKvpq3R1kEaKvCiuvBbuDbU3-t/view?usp=drive_link" target="_blank">📄 Resume</a>
+- Check out - <a href="https://drive.google.com/file/d/1dhAcmyJcf9max2BWnKaXOR_Bs97khQKm/view?usp=drive_link" target="_blank">📄 Resume</a>
 
 ## Programming Languages
 
